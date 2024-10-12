@@ -1,6 +1,6 @@
 # Logic-Design
 
-Hardware: Basys 3 FPGA Board, VGA Monitor
+Hardware: Basys 3 FPGA Board, LCD Display Monitor
 
 7-Segment Display: Implemented a 7 segment display decoder
 
